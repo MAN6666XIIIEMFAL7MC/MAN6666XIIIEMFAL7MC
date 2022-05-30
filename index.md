@@ -11,21 +11,13 @@ También se le ha definido como “contabilidad colectiva a través de Internet�
 distribuido y replicado alrededor de la red. A esa acción se le llama “cadena de bloques”. Así, cada bloque está firmado digitalmente y hace mención al
 bloque previo. 
 
-**```CriptoCoin**
+# CriptoCoin
 
-# MAN
-## YHWHcoin TRC10
+### MAN
+### YHWHcoin TRC10
 ### YHWHcoin TRC20
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
-[YHWHcore](https://www.yhwhcore.webnode.com/) and ![[Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fyhwhcore%2F&psig=AOvVaw2cSezWhpndlsl8Xd47bt_2&ust=1654017059370000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjFgO_bh_gCFQAAAAAdAAAAABAK)](src)
-```
+[YHWHcore](https://www.yhwhcore.webnode.com/) 
 
 ### Jekyll Themes
 
